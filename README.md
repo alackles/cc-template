@@ -2,6 +2,16 @@
 
 This is a template for Claude Code driven projects. Over time I've developed a project workflow that I'm pretty happy with, so I wanted to place it onto GitHub as a template to share with colleagues and students.
 
+## Features
+
+Prioritizes:
+- Making stuff that works rather than making stuff that is robust
+- Personalized use cases rather than generalized use cases
+- Provenance of ideas -- did you do that, or did the AI do that, or did you do it together, or some secret fourth thing?
+- Frequent logging of chances and decisions -- rules for committing which prioritize small commits with the agent handling provenance for you
+- Concept before implementation -- asks to plan/draft before implementing and for approval on each step
+- Single-channel workflow -- discourages deployment of sub-agents 
+
 ## Example Repos
 
 Here are some projects I've built with this workflow. Will add as I keep making them.
