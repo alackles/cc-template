@@ -10,7 +10,12 @@ Prioritizes:
 - Provenance of ideas -- did you do that, or did the AI do that, or did you do it together, or some secret fourth thing?
 - Frequent logging of chances and decisions -- rules for committing which prioritize small commits with the agent handling provenance for you
 - Concept before implementation -- asks to plan/draft before implementing and for approval on each step
-- Single-channel workflow -- discourages deployment of sub-agents 
+- Single-channel workflow -- discourages deployment of sub-agents
+- Opinionated agents -- tries to get your Claude to give you its real opinion by telling it you value its input (only works if you actually value its input)
+
+Deprioritizes:
+- Excessive testing
+- Efficiency
 
 ## Example Repos
 
