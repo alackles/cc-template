@@ -6,15 +6,15 @@ You can take whatever you want from here and use it however you want. Not all of
 
 ## What's In it
 
-- CLAUDE.md: per-project orchestrating document telling Claude how to use the files listed below and also explaining what you want
-- docs/DECISIONS.md: log of how you used AI in the project and what choices were made
-- docs/HANDOFF.md: space for Claude to write to itself that is less structured than anywhere else; like scratch space that persists
-- docs/HUMAN.md: a place for you to reference what on earth your agent told you to do or what steps you're supposed to take next
-- docs/SPEC.md: the frozen initial spec that you wanted before scope creep set in
+- `CLAUDE.md`: per-project orchestrating document telling Claude how to use the files listed below and also explaining what you want
+- `docs/DECISIONS.md`: log of how you used AI in the project and what choices were made
+- `docs/HANDOFF.md`: space for Claude to write to itself that is less structured than anywhere else; like scratch space that persists
+- `docs/HUMAN.md`: a place for you to reference what on earth your agent told you to do or what steps you're supposed to take next
+- `docs/SPEC.md`: the frozen initial spec that you wanted before scope creep set in
 
 Also comes with templates bease off 2 of my custom output styles (but see note below):
-- .claude/output-styles/TEMPLATE-hobby: focused on making stuff that "just works"
-- .claude/output-styles/TEMPLATE-scholarly: focused on reproducible provenance-first academic & scholarly work
+- `.claude/output-styles/TEMPLATE-hobby`: focused on making stuff that "just works"
+- `claude/output-styles/TEMPLATE-scholarly`: focused on reproducible provenance-first academic & scholarly work
 
 ## Features
 
