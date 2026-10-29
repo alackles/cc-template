@@ -4,7 +4,7 @@ This is a template for Claude Code driven projects. Over time I've developed a p
 
 You can take whatever you want from here and use it however you want. Not all of it will be of equal use to you.
 
-## What's In it
+## What's In It
 
 - `CLAUDE.md`: per-project orchestrating document telling Claude how to use the files listed below and also explaining what you want
 - `docs/DECISIONS.md`: log of how you used AI in the project and what choices were made
